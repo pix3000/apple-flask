@@ -11,7 +11,6 @@ then visit [http://localhost:5000/](http://localhost:5000/) in your browser:
 
 Processed images are saved in the `static` directory with a datetime for the filename.
 
-```
 
 ## reference
 - https://github.com/ultralytics/yolov5
