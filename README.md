@@ -1,5 +1,8 @@
 # Yolov5(or YOLOv7) object detection model deployment using flask
-This repo contains example apps for exposing the [yolo5](https://github.com/ultralytics/yolov5) object detection model from [pytorch hub](https://pytorch.org/hub/ultralytics_yolov5/) via a [flask](https://flask.palletsprojects.com/en/1.1.x/) api/app.
+This repo contains example apps for exposing the [yolo5](https://github.com/ultralytics/yolov5) object detection model from 
+The web is intended to quickly and accurately measure the amount of fruit on an apple.
+
+[pytorch hub](https://pytorch.org/hub/ultralytics_yolov5/) via a [flask](https://flask.palletsprojects.com/en/1.1.x/) api/app.
 
 
 
