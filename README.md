@@ -10,13 +10,11 @@ An object detection deep learning model is used to predict the number of apples,
 
 <p align="center"><img src="https://github.com/user-attachments/assets/d386be9e-2c1e-4b3a-9778-38d084d65f60" width="400" height="550" /></p>
 
+## Run
 <p align="center">
   <img src="https://user-images.githubusercontent.com/51011169/235388468-77ba4fc3-02b4-414a-ba6c-e5452b33a2c5.png">
   <img src="https://user-images.githubusercontent.com/51011169/235388476-5b8d9da2-4afd-4d82-9111-8ef3c823091f.png">
 </p>
-
-![스크린샷, 2023-05-01 10-33-26](https://user-images.githubusercontent.com/51011169/235388468-77ba4fc3-02b4-414a-ba6c-e5452b33a2c5.png)
-![스크린샷, 2023-05-01 10-33-48](https://user-images.githubusercontent.com/51011169/235388476-5b8d9da2-4afd-4d82-9111-8ef3c823091f.png)
 
 
 
@@ -31,10 +29,10 @@ then visit [http://localhost:5000/](http://localhost:5000/) in your browser:
 Processed images are saved in the `static` directory with a datetime for the filename.
 
 
-## reference
+## Reference
 - https://github.com/ultralytics/yolov5
 - https://github.com/jzhang533/yolov5-flask (this repo was forked from here)
 - https://github.com/avinassh/pytorch-flask-api-heroku
 
-## paper
+## Paper
 [KCI_FI003097618.pdf](https://github.com/user-attachments/files/18003027/KCI_FI003097618.pdf)
