@@ -27,6 +27,10 @@ Simple app consisting of a form where you can upload an image, and see the infer
 
 then visit [http://localhost:5000/](http://localhost:5000/) in your browser:
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/51011169/235388468-77ba4fc3-02b4-414a-ba6c-e5452b33a2c5.png" width="400" height="550" />
+  <img src="https://user-images.githubusercontent.com/51011169/235388476-5b8d9da2-4afd-4d82-9111-8ef3c823091f.png" width="400" height="550" />
+</p>
 
 Processed images are saved in the `static` directory with a datetime for the filename.
 
