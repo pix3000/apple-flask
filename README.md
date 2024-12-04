@@ -32,3 +32,6 @@ Processed images are saved in the `static` directory with a datetime for the fil
 - https://github.com/ultralytics/yolov5
 - https://github.com/jzhang533/yolov5-flask (this repo was forked from here)
 - https://github.com/avinassh/pytorch-flask-api-heroku
+
+## paper
+[KCI_FI003097618.pdf](https://github.com/user-attachments/files/18003027/KCI_FI003097618.pdf)
