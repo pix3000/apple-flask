@@ -37,4 +37,5 @@ Processed images are saved in the `static` directory with a datetime for the fil
 - https://github.com/avinassh/pytorch-flask-api-heroku
 
 ## Paper
+Gwak, H. J., Jeong, Y., Chun, I. J., & Lee, C. H. (2024). Estimation of fruit number of apple tree based on YOLOv5 and regression model. Journal of IKEEE, 28(2), 150-157.
 [KCI_FI003097618.pdf](https://github.com/user-attachments/files/18003027/KCI_FI003097618.pdf)
