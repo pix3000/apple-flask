@@ -1,0 +1,1 @@
+python detect.py --weights /home/hj/yolov5/runs/train/exp2/weights/best.pt --source /home/hj/apple/apple_data/train/A09B.JPG
