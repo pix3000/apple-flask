@@ -8,7 +8,7 @@ An object detection deep learning model is used to predict the number of apples,
 [pytorch hub](https://pytorch.org/hub/ultralytics_yolov5/) via a [flask](https://flask.palletsprojects.com/en/1.1.x/) api/app.
 
 
-![전체과정2](https://github.com/user-attachments/assets/d386be9e-2c1e-4b3a-9778-38d084d65f60){: width="50%" height="50%"}
+![전체과정2](https://github.com/user-attachments/assets/d386be9e-2c1e-4b3a-9778-38d084d65f60){: width="100" height="100"}
 
 
 ![스크린샷, 2023-05-01 10-33-26](https://user-images.githubusercontent.com/51011169/235388468-77ba4fc3-02b4-414a-ba6c-e5452b33a2c5.png)
